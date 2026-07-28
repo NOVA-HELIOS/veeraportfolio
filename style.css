@@ -231,7 +231,7 @@ nav ul li a:hover{
     width:430px;
     height:430px;
     object-fit:cover;
-    border-radius:50%;
+    border-radius:70%;
     border:6px solid #00eaff;
     box-shadow:
     0 0 20px #00eaff,
