@@ -237,11 +237,12 @@ nav ul li a:hover{
         0 0 60px #00eaff;
 
     object-fit: cover;
-    object-position: center top; /* Adjust the face position */
 
-    animation: float 4s infinite ease-in-out;
+    /* Move the crop downward so your face is centered */
+    object-position: center 20%;
+
+    animation: float 4s ease-in-out infinite;
 }
-
 
 
 /* ==========================
