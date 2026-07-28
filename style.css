@@ -237,7 +237,7 @@ nav ul li a:hover{
         0 0 60px #00eaff;
 
     object-fit: cover;
-    object-position: center 25%; /* Adjust the face position */
+    object-position: center top; /* Adjust the face position */
 
     animation: float 4s infinite ease-in-out;
 }
