@@ -228,23 +228,18 @@ nav ul li a:hover{
 
 
 .hero-image img{
-
     width:330px;
     height:330px;
-
     object-fit:cover;
-
     border-radius:50%;
-
     border:6px solid #00eaff;
-
     box-shadow:
-
     0 0 20px #00eaff,
     0 0 60px #00eaff;
-
     animation:float 4s infinite ease-in-out;
 
+    position: relative;
+    top: 20px;   /* Moves the photo slightly downward */
 }
 
 
