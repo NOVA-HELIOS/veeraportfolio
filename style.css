@@ -239,7 +239,7 @@ nav ul li a:hover{
     animation:float 4s infinite ease-in-out;
 
     position: relative;
-    top: 20px;   /* Moves the photo slightly downward */
+    top: 30px;   /* Moves the photo slightly downward */
 }
 
 
