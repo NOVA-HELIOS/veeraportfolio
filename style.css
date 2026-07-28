@@ -643,3 +643,17 @@ section h2{
 
 
 }
+.project-card ul{
+    margin:15px 0;
+    padding-left:20px;
+}
+
+.project-card li{
+    margin:8px 0;
+    color:#ddd;
+}
+
+.project-card h4{
+    color:#00eaff;
+    margin-top:20px;
+}
